@@ -94,7 +94,7 @@
 		</data>
 		<key>Headers/ASCollectionNode.h</key>
 		<data>
-		okMn2q3lxCAP/Qa6hlLoKrv76vU=
+		kr2DEvbqzBo2Bu63fUX5htnM3TY=
 		</data>
 		<key>Headers/ASCollectionView+Undeprecated.h</key>
 		<data>
@@ -114,7 +114,7 @@
 		</data>
 		<key>Headers/ASCollectionViewProtocols.h</key>
 		<data>
-		AiwiDfWpVdiR6kPgFNeSErUQLKE=
+		Fa/DyjANbMAqJuAqjF6YIJu2lwU=
 		</data>
 		<key>Headers/ASCollections.h</key>
 		<data>
@@ -159,6 +159,10 @@
 		<key>Headers/ASDataController.h</key>
 		<data>
 		CcS/oXNsxlQ64LcTYHYeZmlm6Sw=
+		</data>
+		<key>Headers/ASDefaultImageDownloader.h</key>
+		<data>
+		Fa2dyAvPg4JSxUDBEqVIF0wwO2g=
 		</data>
 		<key>Headers/ASDimension.h</key>
 		<data>
@@ -238,7 +242,7 @@
 		</data>
 		<key>Headers/ASImageProtocols.h</key>
 		<data>
-		gSivgIPJTyh0Ibubf3+BoUmxPbA=
+		3le9lj/G5z0OHWUJTHBluWwBjlA=
 		</data>
 		<key>Headers/ASInsetLayoutSpec.h</key>
 		<data>
@@ -274,7 +278,7 @@
 		</data>
 		<key>Headers/ASLayoutElementPrivate.h</key>
 		<data>
-		1CmMTmJ0IxzB79cNnFls3y2ITWs=
+		pk2CXVvtOG7vVCRJRXxgujW8Q4w=
 		</data>
 		<key>Headers/ASLayoutRangeType.h</key>
 		<data>
@@ -514,7 +518,7 @@
 		</data>
 		<key>Headers/AsyncDisplayKit.h</key>
 		<data>
-		rKyo8coPARBDAHteSW895htddAA=
+		BlZ33YenvuqziayzKTXZVTgaPGk=
 		</data>
 		<key>Headers/CoreGraphics+ASConvenience.h</key>
 		<data>
@@ -574,7 +578,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		vbYWJCYAo1u2a81s864jkUYu4WA=
+		98DHM+l9s1bemcD0BVyCY/ZvV9Q=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -989,7 +993,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3m3eN9aghA4J1P5Abg9lyYXsGijz+XsXyv3/Loi7X2U=
+			1H0eQfLOyjrsWXoHa4ClUgmrCjHGG84yKTYynCXMGno=
 			</data>
 		</dict>
 		<key>Headers/ASCollectionView+Undeprecated.h</key>
@@ -1024,7 +1028,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			LFRLixujrGjlr/pqz3WtuqsPFZMiSah6tiNVkndI+zA=
+			b2gbKZfuLtBKr9MHmwtMvmjRJfqqhwaLeH1Z6m4zyR0=
 			</data>
 		</dict>
 		<key>Headers/ASCollections.h</key>
@@ -1102,6 +1106,13 @@
 			<key>hash2</key>
 			<data>
 			iqfA/sNczlGoEMn7n05LOVfFTVtKWDNryLg7vHHlSFE=
+			</data>
+		</dict>
+		<key>Headers/ASDefaultImageDownloader.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ok6K3GPKwwj1LIu0T6tggqN52uyVj4pj7tEZQh1RGKk=
 			</data>
 		</dict>
 		<key>Headers/ASDimension.h</key>
@@ -1241,7 +1252,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Zxt6qbqXoUOIGn5pwuRLc9DuiRov0iuCjE7OVsTn9ro=
+			PuTxIXdIsrWp3Kluh7puPFD6IJCAECrtbXeVpfPqmP4=
 			</data>
 		</dict>
 		<key>Headers/ASInsetLayoutSpec.h</key>
@@ -1304,7 +1315,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pemZCUN5M3mFFoBj0VZk1VnBDvlXBiCqgKIdjrU6qO0=
+			66e/KeyawnDosnUFcpHBmcTd2b0ERKupT+mlfjhGwHc=
 			</data>
 		</dict>
 		<key>Headers/ASLayoutRangeType.h</key>
@@ -1724,7 +1735,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			v6mfEOuMDMBtgkYvGu7UqTObpXQpmMMHsatsFfKkkjc=
+			Bc78TpMWiHSpmCBRg8ns/AJ8e8qQhOd3ls4u43imCbc=
 			</data>
 		</dict>
 		<key>Headers/CoreGraphics+ASConvenience.h</key>
